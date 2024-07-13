@@ -5,17 +5,32 @@ This project automates the process of enhancing an Instagram post by scraping th
 
 # Features
 Scrape an Instagram post description
+
 Search for a related image using Google Images API
+
 Download and enhance the image quality using Real-ESRGAN
-Translate the post description to Spanish
+
+Translate the post description
+
 Upload the enhanced image and translated description to Instagram
 
 # Requirements
 Python 3.x
+
 undetected-chromedriver
+
 Selenium
+
 instagrapi
+
 Real-ESRGAN
+
 Google Search API
+
 translate
+
 urllib
+
+
+Ypu will also need donwload Real-ESRGAN-Windows
+https://github.com/bycloudai/Real-ESRGAN-Windows
